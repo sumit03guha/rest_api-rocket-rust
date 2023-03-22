@@ -28,7 +28,7 @@ This web server is a very basic implementation of a REST API server built on top
   cargo build
   ```
 
-This creates a binary in the `target/debug/rest_api-rocket-rust` directory.
+  This creates a binary in the `target/debug/rest_api-rocket-rust` directory.
 
 - If `cargo-watch` is installed, then the following command can be used to compile and start the server:
 
@@ -42,8 +42,8 @@ This creates a binary in the `target/debug/rest_api-rocket-rust` directory.
   target/release/rest_api-rocket-rust
   ```
 
-This will create a file `data.sqlite` in the root directory of the project.\
-The server will, by default, start an HTTP API server on port `8000` and will only be accessible as localhost.
+  This will create a file `data.sqlite` in the root directory of the project.\
+  The server will, by default, start an HTTP API server on port `8000` and will only be accessible as localhost.
 
 ## Sending requests to the server
 
