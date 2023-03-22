@@ -4,6 +4,7 @@ This web server is a very basic implementation of a REST API server built on top
 
 ## Useful links
 
+- [Installing rust](https://github.com/abhi3700/My_Learning-Rust#installation)
 - [Rocket](https://rocket.rs/)
 - [rusqlite](https://docs.rs/rusqlite/latest/rusqlite/)
 - [Rust](https://www.rust-lang.org/)
